@@ -1,0 +1,20 @@
+Data types specify the different size and values that can be stored in the variable.
+There are two types of data types Primitive and non-Primitive
+Primitive(which store the value directly in the memory,Primary data type,size of variable is fixed)--> integric and decimal-->int,short,long,byte, float,decimal.
+Non-Primitive(which store the reference in the memory,size of varible can grow or shrink)--> class,interface,array,string.
+
+//WRRAPPER CLASSES.
+-->These are classes that wrap Primitive data types into objects.They are part of java.lang package.
+-->Integer--> int ,Byte---> byte,Short--> short  
+
+
+
+
+//OPERATORS.
+Operators are used to specify the particular action perform on the variables.
+Types of operators.
+Arthimatic operator-->+,-,*,/
+Assignment Operator-->==,=<,=>,<,>
+Logical operator-->&&,||,
+Bitwise Operator--><<,>>,!,^
+Ternanary operator-->?
